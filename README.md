@@ -1,2 +1,2 @@
 # Hello-Class
-Learning App
+Learning App development for Mobile Application
